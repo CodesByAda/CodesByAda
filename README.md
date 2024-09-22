@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">[X.com Clone](): A frontend clone of the popular social media platform.<br>[Netflix Clone](): A sleek and responsive frontend mimicking Netflix’s interface.<br>[Spotify Clone](): A music streaming frontend that captures the essence of Spotify.<br>[JokeBuddy](): A fun Discord bot that generates jokes and memes to brighten your day!</p>
+<p align="left"><b>X.com Clone</b>: A frontend clone of the popular social media platform.<br><b>Netflix Clone</b>: A sleek and responsive frontend mimicking Netflix’s interface.<br><b>Spotify Clone</b>: A music streaming frontend that captures the essence of Spotify.<br><b>JokeBuddy</b>: A fun Discord bot that generates jokes and memes to brighten your day!</p>
 
 ###
 
