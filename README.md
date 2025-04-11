@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a passionate web developer and Discord bot enthusiast. I love crafting engaging and dynamic web experiences while also exploring the exciting world of bot development. Whether it’s coding in JavaScript or experimenting with new frameworks, I’m always eager to learn and grow!</p>
+<p align="left">I'm a web developer focused on building interactive and user-friendly web experiences. I enjoy working with modern technologies, exploring new frameworks, and continuously expanding my skills to create clean, efficient, and impactful web solutions.</p>
 
 ###
 
