@@ -49,7 +49,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -86,7 +90,13 @@
 
 ###
 
-<p align="left"><b>X.com Clone</b>: A frontend clone of the popular social media platform.<br><b>Netflix Clone</b>: A sleek and responsive frontend mimicking Netflix’s interface.<br><b>Spotify Clone</b>: A music streaming frontend that captures the essence of Spotify.<br><b>JokeBuddy</b>: A fun Discord bot that generates jokes and memes to brighten your day!</p>
+<p align="left">
+  <b>Portify</b>: A modern portfolio builder designed to simplify personal branding for developers and creatives.<br>
+  <b>BookNest LMS</b>: A full-stack Library Management System with admin controls, analytics, and QR-based book borrowing. <i>(in progress)</i><br>
+  <b>Netflix Clone</b>: A sleek and responsive frontend mimicking Netflix’s interface.<br>
+  <b>X.com Clone</b>: A frontend clone of the popular social media platform.<br>
+  <b>JokeBuddy</b>: A fun Discord bot that generates jokes and memes to brighten your day!
+</p>
 
 ###
 
