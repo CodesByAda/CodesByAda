@@ -1,5 +1,5 @@
 <h1 align="center">Adarsh Antony</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | System Architect</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | CSE Undergrad</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adarshantony/" target="_blank">
@@ -49,23 +49,23 @@ I write code that gets used, not just pushed.
 A production-grade portfolio builder.  
 Drag-and-drop builder with real-time preview and deploy-ready output.  
 Built from scratch. Won first place in a competitive college event.  
-[View Code](https://github.com/adarshantony/Portify)
+[View Code](https://github.com/CodesByAda/codesbyada.github.io)
 
 **BookNest LMS**  
 Open-source library management system with full admin control and student portal.  
 QR-based ScanTag system, daily analytics, and rack tracking included.  
-[View Code](https://github.com/adarshantony/BookNest)
+[View Code](https://github.com/CodesByAda/BookNest-LibraryManagementSystem)
 
 **Fashion Ecommerce (MERN)**  
 Full-fledged ecommerce platform with product CRUD, image uploads via Cloudinary, JWT auth, and Razorpay integration.  
 Not a clone. Built as a scalable real-world product.  
-[View Code](https://github.com/adarshantony/Fashion-Ecommerce)
+[View Code](https://github.com/CodesByAda/MERN-Ecommerce)
 
 **Other Projects:**  
+- Ani-JS (Contributor)
 - Netflix UI Clone  
 - X.com UI Clone  
 - JokeBuddy – Discord bot for memes and jokes
-
 ---
 
 ### Credentials
