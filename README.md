@@ -71,7 +71,6 @@ Not a clone. Built as a scalable real-world product.
 ### Credentials
 
 - Full Stack Web Developer – Udemy  
-- AI Bootcamp – Hack2Skill  
 - Career Skills in Software Development – LinkedIn  
 - Govt. of Kerala – Web Design (1st Subdistrict, A Grade District)
 
