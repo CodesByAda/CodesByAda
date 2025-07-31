@@ -49,17 +49,17 @@ I write code that gets used, not just pushed.
 A production-grade portfolio builder.  
 Drag-and-drop builder with real-time preview and deploy-ready output.  
 Built from scratch. Won first place in a competitive college event.  
-[View Code](https://github.com/CodesByAda/codesbyada.github.io)
+[View Code](https://github.com/aadarshantony/Portify)
 
 **BookNest LMS**  
 Open-source library management system with full admin control and student portal.  
 QR-based ScanTag system, daily analytics, and rack tracking included.  
-[View Code](https://github.com/CodesByAda/BookNest-LibraryManagementSystem)
+[View Code](https://github.com/aadarshantony/BookNest-LibraryManagementSystem)
 
 **Fashion Ecommerce (MERN)**  
 Full-fledged ecommerce platform with product CRUD, image uploads via Cloudinary, JWT auth, and Razorpay integration.  
 Not a clone. Built as a scalable real-world product.  
-[View Code](https://github.com/CodesByAda/MERN-Ecommerce)
+[View Code](https://github.com/aadarshantony/MERN-Ecommerce)
 
 **Other Projects:**  
 - Ani-JS (Contributor)
